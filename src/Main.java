@@ -7,8 +7,7 @@ public class Main {
 
         if (x <= 999) {
             bonus = y + x;
-        }
-        else {
+        } else {
             bonus = y + x + x / 100;
         }
 
